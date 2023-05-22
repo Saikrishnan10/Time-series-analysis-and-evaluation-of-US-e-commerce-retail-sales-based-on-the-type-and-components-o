@@ -1,4 +1,4 @@
-# Time-series-analysis-of-United-States-e-commerce-retail-sales
+# Time series analysis of United States E-commerce retail sales
 
 The time series is performed using R-studio and the initial step is to convert the data into a time-series object. The pattern of the time plot is important as it helps to understand the past behaviour using which we can expect such similarities in future, which can be identified using forecasting method.
 
